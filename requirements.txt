@@ -1,4 +1,6 @@
 aiogram==2.25.1
 flask
+aiohttp==3.9.0
+
 
 
